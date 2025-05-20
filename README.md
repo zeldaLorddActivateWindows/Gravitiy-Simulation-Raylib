@@ -1,3 +1,3 @@
 # Gravity Simulation
 
-FLAWLESS represntation of things falling through spacetime
+FLAWLESS representation of things falling through spacetime
